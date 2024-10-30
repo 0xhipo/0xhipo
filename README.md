@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0xhipo
 - 👀 I’m interested in blockchain, fintech, datascience, deep learning.
-- 🌱 I’m currently working on Solana
-- 💞️ I’m hiring for my Solana protocol
+- 🌱 I’m currently working on Sui
+- I'm a humble GPT programmer using markdown language.
 - 📫 Reach me at 0xhipo@gmail.com, or Twitter @0xhipo
 
 <!---
